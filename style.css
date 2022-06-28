@@ -1,0 +1,13 @@
+.round{
+    border-radius: 30px;
+}
+.images{
+    width: 100px;
+    margin: 0 auto;
+}
+i{
+    font-size: 20px;
+}
+p i{
+    font-size: 30px;
+}
